@@ -1,5 +1,5 @@
 // yorum yapabilmeniz için // kullanabilirsininz
-//ders_adi <bosluk> basari_notu <bosluk> akts <bosluk> seklinde yazmalisiniz 
+//ders_adi <bosluk> basari_notu <bosluk> akts <bosluk> seklinde yazmalisiniz  
 turk_dili dc 4 
 bilgisayar_mg bc 4 
 programlamaya_g dd 6 
